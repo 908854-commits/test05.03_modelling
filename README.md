@@ -6,8 +6,10 @@ The chosen categories are:
 - Date
 - Year
 - Location
-- From (sender)
-- To (reciver)
+- From (Sender)
+- To (Reciver)
 - Topic
 - Full Text (Boolean, False = Fragment)
 - Telegram (Boolan, False = Letter)
+
+'Na' value was used to indicate not available data
