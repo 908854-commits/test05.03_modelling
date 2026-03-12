@@ -1,2 +1,13 @@
 # test05.03_modelling
-Van Gogh letters
+This datasets presents ten letters from vangoghletters.org (https://vangoghletters.org/vg/letters/let871/letter.html)
+
+The chosen categories are:
+- ID
+- Date
+- Year
+- Location
+- From (sender)
+- To (reciver)
+- Topic
+- Full Text (Boolean, False = Fragment)
+- Telegram (Boolan, False = Letter)
