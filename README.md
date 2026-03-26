@@ -20,6 +20,20 @@ The chosen categories are:
 
 > **Note:** The **'Na'** value was used to indicate not available data
 
+## Dataset Use
+
+Once the network is constructed, several analytical methods can be applied.
+
+**Community Detection** identifies clusters of communication. Possible subgroups: Family correspondence, Professional communication, Other forms of interaction. These clusters reveal social and professional groups in Van Gogh’s environment. 
+
+**Degree Centrality** measures the number of connections associated with each node. This identifies the most central figures in the correspondence network. For example, frequent correspondents such as Van Gogh’s brother Theo form highly connected nodes.
+
+**Temporal Analysis** letters are grouped by time periods. This allows analysis of communication intensity by year and shifts in Van Gogh’s social network over time. Temporal segmentation reveals phases of active correspondence.
+
+**Geographic Analysis** by linking letters to places, the spatial distribution of correspondence can be analyzed. This reveals where Van Gogh was writing from and geographic spread of his communication network. Geographic analysis connects correspondence patterns with stages of Van Gogh’s artistic career.
+
+**Topic Modelling** analyse the topics presented in the letters, considering three macro-catgories it's possible to sum up the different subjects contained in the texts. 
+
 ## Topic Modelling and Network Analysis
 
 To allow a topic-based network analysis the raw topics idicated on the archive, for each letter, have been divided into three macro-categories, Relationships, War and Arts, as in the following example:
@@ -29,4 +43,3 @@ To allow a topic-based network analysis the raw topics idicated on the archive, 
 |1               |The death of Mr van Gogh                                |Relationships                |
 |2               |Decision to go to Auvers; Fourth attack in Saint-Rémy   |War                          |
 |3               |Request to Russell to buy a painting from Gauguin       |Arts                         |
-
