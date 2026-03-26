@@ -4,7 +4,7 @@ This report proposes a data model and analytical framework for constructing a ne
 
 ## Dataset structure
 
-This datasets presents ten letters from [vangoghletters.org](https://vangoghletters.org/vg/letters/let871/letter.html)
+This datasets presents ten letters from [vangoghletters.org](https://vangoghletters.org/vg/letters.html)
 
 The chosen categories are:
 - ID
